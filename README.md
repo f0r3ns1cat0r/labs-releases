@@ -12,7 +12,7 @@ Below you will find the sections we have opened in this repository:
 | ---------------------------- | ----------------------------------------------------- |
 | [`extractors/`](extractors/) | Malware configuration extractors, organized by family |
 | [`indicators/`](indicators/) | Research atomic indicators, organized by family       |
-| [`nightMARE/`](nightMARE/)   | Malware reverse engineering and analysis library      |
+| [`nightMARE/`](https://github.com/elastic/nightMARE)   | Malware reverse engineering and analysis library      |
 | [`tools/`](tools/)           | Tools released for community use                      |
 
 ## Questions? Problems? Suggestions?
