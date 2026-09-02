@@ -1,0 +1,223 @@
+indicator,type,family,reference,description
+lab[.]loomweather[.]one,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,Banner hash pivot; VirusTotal relations pivot
+ops4[.]coralpark[.]xyz,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,Banner hash pivot; VirusTotal relations pivot
+pull[.]alpha-zone[.]click,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,Banner hash pivot; VirusTotal relations pivot
+push[.]brewtrail[.]click,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,Banner hash pivot; VirusTotal relations pivot
+push[.]pixelplaza[.]click,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,Banner hash pivot; VirusTotal relations pivot
+scan[.]civicblaze[.]click,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,Banner hash pivot; VirusTotal relations pivot
+scheduler[.]civic-team[.]xyz,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,Banner hash pivot; VirusTotal relations pivot
+setup[.]waveboard[.]one,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,Banner hash pivot; VirusTotal relations pivot
+admin[.]topsite[.]one,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,Banner hash pivot; VirusTotal relations pivot
+api[.]tphost[.]in,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,Banner hash pivot
+gate[.]steadygroup[.]xyz,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,Banner hash pivot; VirusTotal relations pivot
+heliospay88[.]com,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,Banner hash pivot
+monitor5[.]roast-core85[.]click,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,Banner hash pivot; VirusTotal relations pivot
+pool8[.]reefapp[.]lol,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,Banner hash pivot; VirusTotal relations pivot
+portal[.]framerun[.]click,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,Banner hash pivot; VirusTotal relations pivot
+setup[.]explore-store[.]xyz,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,Banner hash pivot; VirusTotal relations pivot
+status7[.]skypress[.]click,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,Banner hash pivot; VirusTotal relations pivot
+trace[.]lunartempo[.]xyz,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,Banner hash pivot; VirusTotal relations pivot
+web[.]zencourt[.]lol,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,Banner hash pivot; VirusTotal relations pivot
+api[.]flexisoftwarebd[.]com,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,Banner hash pivot
+api[.]ztdeye[.]com,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,Banner hash pivot
+bridge[.]garden-pixel[.]one,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,Banner hash pivot; VirusTotal relations pivot
+core[.]coachdesk[.]click,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,Banner hash pivot; VirusTotal relations pivot
+meta[.]calmshelf67[.]xyz,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,Banner hash pivot; VirusTotal relations pivot; Resolved to 104.143.36.164
+prod[.]commonsource14[.]click,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,Banner hash pivot; VirusTotal relations pivot
+resolve[.]mint-screen[.]xyz,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,Banner hash pivot; VirusTotal relations pivot
+route4[.]modellab84[.]xyz,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,Banner hash pivot; VirusTotal relations pivot
+scan[.]journalfleet[.]lol,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,Banner hash pivot; VirusTotal relations pivot
+sciencepulse[.]net,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,Banner hash pivot
+stage6[.]stillpath8[.]one,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,Banner hash pivot; VirusTotal relations pivot
+beta[.]oak-den84[.]one,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,Banner hash pivot; VirusTotal relations pivot
+bridge7[.]warmtools[.]one,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,Banner hash pivot; VirusTotal relations pivot
+elastic[.]madispace[.]net,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,Banner hash pivot
+madispace[.]net,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,Banner hash pivot
+search[.]cekpejabat[.]id,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,Banner hash pivot
+task[.]pantryly83[.]one,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,Banner hash pivot; VirusTotal relations pivot
+watch[.]harvestbazaar[.]click,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,Banner hash pivot; VirusTotal relations pivot
+www[.]snimeibot[.]com,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,Banner hash pivot
+api[.]mavekite[.]com,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,Banner hash pivot
+assets5[.]frameai35[.]xyz,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,Banner hash pivot; VirusTotal relations pivot
+config[.]cove-post[.]xyz,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,Banner hash pivot; VirusTotal relations pivot
+fastmoneyflux[.]com,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,Banner hash pivot
+ftp[.]makave[.]us,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,Banner hash pivot
+queue8[.]vibepulse[.]one,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,Banner hash pivot; VirusTotal relations pivot
+report[.]clearlens[.]click,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,Banner hash pivot; VirusTotal relations pivot
+sr21[.]sikhsforjustice[.]org,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,Banner hash pivot
+stage[.]mycourt33[.]click,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,Banner hash pivot; VirusTotal relations pivot
+test[.]kilnteam35[.]click,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,Banner hash pivot; VirusTotal relations pivot
+api[.]yakohotspot[.]co[.]tz,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,Banner hash pivot
+beta9[.]coralfabric[.]one,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,Banner hash pivot; VirusTotal relations pivot
+gate[.]voyagezone[.]click,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,Banner hash pivot; VirusTotal relations pivot
+meta2[.]go-tools[.]click,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,Banner hash pivot; VirusTotal relations pivot
+relay7[.]apiforge[.]click,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,Banner hash pivot; VirusTotal relations pivot
+core2[.]craft-hq19[.]one,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,Banner hash pivot; VirusTotal relations pivot
+health[.]sigmacoast[.]one,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,Banner hash pivot; VirusTotal relations pivot
+health0[.]pinetile86[.]click,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,Banner hash pivot; VirusTotal relations pivot
+log[.]neonhq[.]xyz,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,Banner hash pivot; VirusTotal relations pivot
+pull7[.]motiondepot[.]one,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,Banner hash pivot; VirusTotal relations pivot
+watch7[.]deepclimate[.]click,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,Banner hash pivot; VirusTotal relations pivot
+edge1[.]gentleline[.]click,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,Banner hash pivot; VirusTotal relations pivot
+node3[.]meadowrhythm[.]xyz,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,Banner hash pivot; VirusTotal relations pivot
+ops[.]canvascampus[.]xyz,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,Banner hash pivot; VirusTotal relations pivot
+queue[.]cdnbazaar[.]xyz,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,Banner hash pivot; VirusTotal relations pivot
+sancamilowebhook[.]nexbu[.]cloud,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,Banner hash pivot
+sso[.]northjournal[.]one,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,Banner hash pivot; VirusTotal relations pivot
+health[.]harborcoast[.]xyz,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,Banner hash pivot; VirusTotal relations pivot
+main[.]commontexture76[.]one,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,Banner hash pivot; VirusTotal relations pivot
+prod5[.]data-square[.]click,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,Banner hash pivot; VirusTotal relations pivot
+4b[.]heliospay88[.]com,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,Banner hash pivot
+audit[.]techreef[.]one,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,Banner hash pivot; VirusTotal relations pivot
+core[.]adukonten[.]id,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,Banner hash pivot
+deploy[.]works-rhythm8[.]click,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,Banner hash pivot; VirusTotal relations pivot
+dev2[.]kitchensignal[.]click,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,Banner hash pivot; VirusTotal relations pivot
+relay0[.]aquadisplay[.]lol,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,Banner hash pivot; VirusTotal relations pivot
+route[.]ambergroup[.]one,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,Banner hash pivot; VirusTotal relations pivot
+api[.]atlasbyte[.]xyz,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,Banner hash pivot; VirusTotal relations pivot
+catalog3[.]calmtexture[.]click,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,Banner hash pivot; VirusTotal relations pivot
+test[.]iihdev[.]com,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,Banner hash pivot
+files4[.]jade-hub[.]click,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,Banner hash pivot; VirusTotal relations pivot
+api[.]pinmediahub[.]com,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,Banner hash pivot
+meta[.]bench-grid[.]one,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,Banner hash pivot; VirusTotal relations pivot
+registry[.]lighttexture18[.]one,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,Banner hash pivot; VirusTotal relations pivot
+dns[.]frame-works[.]click,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,Banner hash pivot; VirusTotal relations pivot
+lookup[.]hazelshelf[.]xyz,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,Banner hash pivot; VirusTotal relations pivot
+admin9[.]planden35[.]click,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,Banner hash pivot; VirusTotal relations pivot
+job[.]coast-space[.]lol,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,Banner hash pivot; VirusTotal relations pivot
+upload[.]frame-quest[.]lol,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,Banner hash pivot; VirusTotal relations pivot
+guard[.]warm-climate[.]click,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,Banner hash pivot; VirusTotal relations pivot
+board8[.]creekpath[.]lol,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,Banner hash pivot; VirusTotal relations pivot
+cache[.]coastpilot[.]lol,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,Banner hash pivot; VirusTotal relations pivot
+edge[.]ivorytexture[.]lol,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,Banner hash pivot; VirusTotal relations pivot
+hw[.]hexatecha[.]com,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,Banner hash pivot
+ping[.]node-stock[.]lol,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,Banner hash pivot; VirusTotal relations pivot
+ping0[.]aqua-grid77[.]xyz,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,Banner hash pivot; VirusTotal relations pivot
+serve0[.]omega-fabric41[.]lol,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,Banner hash pivot; VirusTotal relations pivot
+sync[.]northform[.]click,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,Banner hash pivot; VirusTotal relations pivot
+trace[.]novagarden[.]lol,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,Banner hash pivot; VirusTotal relations pivot
+fixmyjourney[.]com,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,Banner hash pivot
+grab-offers[.]fixmyjourney[.]com,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,Banner hash pivot
+cpcontacts[.]fixmyjourney[.]com,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,Banner hash pivot
+easypay4u-net[.]fixmyjourney[.]com,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,Banner hash pivot
+cheapestflighttickets-co[.]fixmyjourney[.]com,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,Banner hash pivot
+autodiscover[.]fixmyjourney[.]com,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,Banner hash pivot
+webdisk[.]fixmyjourney[.]com,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,Banner hash pivot
+abue[.]ypaaumpkif[.]xyz,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,VirusTotal relations pivot
+auth[.]commonup[.]click,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,VirusTotal relations pivot; Resolved to 104.143.36.164
+beta[.]local-screen[.]click,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,VirusTotal relations pivot
+beta[.]smartcore[.]click,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,VirusTotal relations pivot
+build0[.]coreworks72[.]xyz,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,VirusTotal relations pivot
+build7[.]mint-forge[.]sbs,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,VirusTotal relations pivot
+cdn[.]deltapress[.]one,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,VirusTotal relations pivot
+content[.]lakepeak[.]lol,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,VirusTotal relations pivot
+cron6[.]health-ly[.]lol,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,VirusTotal relations pivot
+dash[.]craftlayer[.]click,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,VirusTotal relations pivot
+dash[.]scout-lens34[.]xyz,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,VirusTotal relations pivot
+deploy[.]coast-weave[.]xyz,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,VirusTotal relations pivot
+deploy[.]covespace[.]xyz,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,VirusTotal relations pivot
+dns[.]jadedock43[.]monster,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,VirusTotal relations pivot
+docs[.]procrew95[.]xyz,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,VirusTotal relations pivot
+edge[.]amberreport[.]one,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,VirusTotal relations pivot; Resolved to 104.143.36.164
+edge[.]kitchencraft[.]lol,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,VirusTotal relations pivot
+event[.]amberbox[.]one,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,VirusTotal relations pivot
+event[.]wanderwest[.]one,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,VirusTotal relations pivot
+fantom-mainnet[.]xdefiservices[.]com,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,VirusTotal relations pivot
+health[.]duskpoint27[.]click,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,VirusTotal relations pivot
+health[.]hazelkit[.]one,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,VirusTotal relations pivot
+index[.]gentle-weekly[.]lol,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,VirusTotal relations pivot
+index[.]ridgefield[.]lol,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,VirusTotal relations pivot
+lab6[.]skyquest[.]sbs,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,VirusTotal relations pivot
+link9[.]prime-track[.]xyz,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,VirusTotal relations pivot
+live[.]zen-bridge[.]one,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,VirusTotal relations pivot
+live0[.]bitstage16[.]click,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,VirusTotal relations pivot
+metric[.]cdnfair[.]one,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,VirusTotal relations pivot
+metric[.]mentorcreek25[.]lol,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,VirusTotal relations pivot
+metric[.]mintweekly[.]click,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,VirusTotal relations pivot
+metric3[.]viberun[.]lol,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,VirusTotal relations pivot
+monitor9[.]easttrail5[.]xyz,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,VirusTotal relations pivot
+msgbe[.]nuxbzyyzse[.]xyz,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,VirusTotal relations pivot
+node[.]gentleroom[.]lol,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,VirusTotal relations pivot
+node[.]rubystore[.]one,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,VirusTotal relations pivot; Resolved to 104.143.36.164
+polygon[.]qbetfhwz[.]xyz,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,VirusTotal relations pivot
+polygon[.]sqhmsosbk[.]xyz,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,VirusTotal relations pivot
+portal[.]wellness-canvas[.]click,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,VirusTotal relations pivot
+prod[.]peakyard[.]xyz,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,VirusTotal relations pivot
+proxy[.]everatlas[.]lol,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,VirusTotal relations pivot
+proxy[.]oneterrace[.]one,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,VirusTotal relations pivot
+public[.]1rpc[.]io,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,VirusTotal relations pivot
+pull[.]myview80[.]xyz,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,VirusTotal relations pivot
+pull[.]valley-screen[.]click,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,VirusTotal relations pivot; Resolved to 104.143.36.164
+pull2[.]prime-grid[.]click,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,VirusTotal relations pivot
+push[.]shorecourt[.]lol,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,VirusTotal relations pivot
+push[.]widedisplay[.]click,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,VirusTotal relations pivot
+registry[.]amberscreen[.]lol,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,VirusTotal relations pivot
+rpc-proxy[.]xdefi[.]services,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,VirusTotal relations pivot
+scheduler2[.]travel-scope[.]lol,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,VirusTotal relations pivot
+stage[.]vibedisplay32[.]one,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,VirusTotal relations pivot
+static4[.]livelab[.]one,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,VirusTotal relations pivot
+store[.]framecove[.]lol,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,VirusTotal relations pivot
+store[.]purestack[.]lol,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,VirusTotal relations pivot
+store[.]titanboard[.]one,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,VirusTotal relations pivot
+store0[.]renderring[.]lol,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,VirusTotal relations pivot
+task[.]nextland18[.]lol,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,VirusTotal relations pivot
+task[.]valley-north[.]lol,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,VirusTotal relations pivot
+trace[.]eastbox[.]lol,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,VirusTotal relations pivot
+upload[.]frost-ai[.]click,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,VirusTotal relations pivot
+vault[.]amberseason79[.]click,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,VirusTotal relations pivot
+vault[.]fasthub[.]sbs,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,VirusTotal relations pivot
+vault8[.]brighttempo[.]lol,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,VirusTotal relations pivot
+watch[.]common-store[.]lol,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,VirusTotal relations pivot
+web3[.]cdnhq[.]sbs,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,VirusTotal relations pivot
+worker[.]ivoryboard[.]lol,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,VirusTotal relations pivot; Resolved to 104.143.36.164
+xofqaabf[.]ogoxxqqizc[.]xyz,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,VirusTotal relations pivot; Resolved to 104.143.36.164
+api[.]autoscope[.]sbs,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,Resolved deaddrop
+eth[.]cchain-gov[.]org,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,Resolved to 104.143.36.164
+eth[.]cchaingov[.]org,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,Resolved to 104.143.36.164
+eth[.]youthchain[.]cc,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,Resolved to 104.143.36.164
+bnb[.]youthchain[.]cc,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,Resolved to 104.143.36.164
+bnb-proxy[.]cchain-gov[.]org,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,Resolved to 104.143.36.164
+tech[.]cchain-gov[.]org,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,Resolved to 104.143.36.164
+bnb[.]cchain-gov[.]org,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,Resolved to 104.143.36.164
+labubu[.]cchain-gov[.]org,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,Resolved to 104.143.36.164
+swap[.]cchain-gov[.]org,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,Resolved to 104.143.36.164
+home[.]cchain-gov[.]org,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,Resolved to 104.143.36.164
+cross[.]cchain-gov[.]org,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,Resolved to 104.143.36.164
+ccadm[.]cchain-gov[.]org,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,Resolved to 104.143.36.164
+mine[.]cchain-gov[.]org,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,Resolved to 104.143.36.164
+down[.]cchain-gov[.]org,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,Resolved to 104.143.36.164
+oc[.]cchain-gov[.]org,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,Resolved to 104.143.36.164
+scan[.]cchain-gov[.]org,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,Resolved to 104.143.36.164
+bnb[.]cchaingov[.]org,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,Resolved to 104.143.36.164
+help[.]cchaingov[.]org,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,Resolved to 104.143.36.164
+bnb-proxy[.]cchaingov[.]org,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,Resolved to 104.143.36.164
+dscc[.]undcf[.]org,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,Resolved to 104.143.36.164
+sso[.]travel-track[.]xyz,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,Resolved deaddrop
+setup3[.]basepath[.]click,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,Resolved deaddrop
+fvlrzhvp[.]gopfunzved[.]xyz,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,Resolved deaddrop
+dxfshr[.]vqbgzyzool[.]xyz,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,Resolved deaddrop
+hub4[.]cdndock[.]click,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,Resolved deaddrop
+init[.]maxlab[.]click,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,Resolved deaddrop
+dlpgqy[.]nibxrsnrwl[.]xyz,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,Resolved deaddrop
+gzsfjf[.]lnwybaxiex[.]xyz,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,Resolved deaddrop
+dsukc[.]xvnnbzdfbt[.]xyz,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,Resolved deaddrop
+feed3[.]deltasignal33[.]lat,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,Resolved deaddrop
+easzcme[.]jnzwrngjgb[.]xyz,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,Resolved deaddrop
+umxenpws[.]jqmbtkacwq[.]xyz,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,Resolved deaddrop
+mail[.]pressfabric[.]lol,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,Resolved deaddrop
+ping[.]south-loop[.]click,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,Resolved deaddrop
+stream1[.]benchhq60[.]xyz,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,Resolved deaddrop
+index[.]works-table[.]one,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,Resolved deaddrop
+console[.]plan-stack2[.]click,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,Resolved deaddrop
+gate[.]runmanor[.]click,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,Resolved deaddrop
+resolve[.]blue-pulse[.]lol,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,Resolved deaddrop
+panel[.]roamcove[.]click,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,Resolved deaddrop
+setup[.]novareport[.]click,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,Resolved deaddrop
+console[.]reefware[.]xyz,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,Resolved deaddrop
+init[.]drifttexture[.]xyz,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,Resolved deaddrop
+core3[.]barnfleet[.]one,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,Resolved deaddrop
+job4[.]mintstack[.]lol,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,Resolved deaddrop
+bridge1[.]shore-tile[.]lol,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,Resolved deaddrop
+dash4[.]dusktrack[.]one,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,Resolved deaddrop
+worker[.]swift-pilot[.]one,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,Resolved deaddrop
+beta[.]studycadence[.]one,domain,revstealer,https://www.elastic.co/security-labs/threat-command/revstealer-credential-harvesting-infostealer,Resolved deaddrop
